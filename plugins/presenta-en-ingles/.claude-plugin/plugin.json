@@ -1,0 +1,11 @@
+{
+  "name": "presenta-en-ingles",
+  "description": "Coach para preparar y ensayar en inglés la presentación de resultados anuales de una organización: banco de frases, ensayos guiados, simulación de preguntas difíciles y práctica diaria.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jesica Tapia",
+    "email": "jesicatapia@gmail.com"
+  },
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png"
+}

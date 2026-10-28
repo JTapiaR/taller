@@ -1,0 +1,19 @@
+{
+  "name": "taller",
+  "owner": {
+    "name": "Jesica Tapia",
+    "email": "jesicatapia@gmail.com"
+  },
+  "metadata": {
+    "description": "Plugins de Claude Code para practicar presentaciones en inglés."
+  },
+  "plugins": [
+    {
+      "name": "presenta-en-ingles",
+      "source": "./plugins/presenta-en-ingles",
+      "description": "Coach para preparar y ensayar en inglés la presentación de resultados anuales de una organización.",
+      "version": "1.0.0",
+      "license": "MIT"
+    }
+  ]
+}
